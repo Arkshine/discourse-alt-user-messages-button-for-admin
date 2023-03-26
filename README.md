@@ -1,2 +1,3 @@
-# discourse-alt-user-messages-button-for-admin
-Discourse Component: Alternative user messages button for Admin
+# Description
+
+Discourse theme component in helping the admin to reduce accidental access to a user's messages from its profile.
