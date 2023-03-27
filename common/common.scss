@@ -1,0 +1,11 @@
+.admin-content .user-controls {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 5px;
+
+  .show-messages {
+    order: -1;
+  }
+}

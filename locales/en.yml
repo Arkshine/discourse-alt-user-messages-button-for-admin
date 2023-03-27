@@ -1,0 +1,6 @@
+en:
+  admin:
+    user:
+      show_messages: Show Messages
+  theme_metadata:
+    description: "A Discourse theme component in helping the admin to reduce accidental access to a user's messages from its profile."

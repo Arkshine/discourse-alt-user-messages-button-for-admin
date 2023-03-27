@@ -1,0 +1,6 @@
+{{#if this.currentUser.admin}}
+    <LinkTo @route="userPrivateMessages" @model={{this.model}} class="btn btn-default show-messages">
+        {{d-icon "envelope"}}
+        {{theme-i18n "admin.user.show_messages"}}
+    </LinkTo>
+{{/if}}
