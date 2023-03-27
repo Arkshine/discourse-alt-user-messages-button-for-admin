@@ -9,5 +9,7 @@ This component mitigates this by doing two things:
 * Add a button "Show messages" in the admin panel.
 _Clicking on it redirects to the user's profile without the "Messages" tab._
 
+That way, this makes the context of admin action relevant and less prone to errors.
+Users' perceptions and trust levels are kept safe.
 
 ![NVIDIA_Share_Jt1DT8Z2nv](https://user-images.githubusercontent.com/360640/227838306-d0bb85a5-159a-4ded-af6e-690242c2dc45.gif)
