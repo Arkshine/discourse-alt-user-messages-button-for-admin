@@ -7,7 +7,7 @@ The issue has been talked about here https://meta.discourse.org/t/add-a-warning-
 This component mitigates this by doing two things:
 * Remove the "Messages" tab in a user's profile
 * Add a button "Show messages" in the admin panel.
-_Clicking on it redirects to the user's profile without the "Messages" tab._
+<br />_Clicking on it redirects to the user's profile without the "Messages" tab._
 
 That way, this makes the context of admin action relevant and less prone to errors.<br />
 Users' perceptions and trust levels are kept safe.
