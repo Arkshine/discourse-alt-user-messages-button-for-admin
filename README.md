@@ -1,4 +1,4 @@
-# Description
+# Alternative user's messages button for admin
 
 A Discourse theme component that helps the admin reduces accidental access to a user's direct messages from its profile.
 
