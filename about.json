@@ -1,8 +1,8 @@
 {
-  "name": "Alternative user's messages button for Admin",
+  "name": "Alternative user PMs button for Admin",
   "author": "Arkshine",
-  "about_url": "https://github.com/Arkshine/discourse-alt-user-messages-button-for-admin/blob/main/README.md",
-  "license_url": "https://github.com/Arkshine/discourse-alt-user-messages-button-for-admin/blob/main/LICENSE",
+  "about_url": "https://github.com/Arkshine/discourse-alt-user-pms-button-for-admin/blob/main/README.md",
+  "license_url": "https://github.com/Arkshine/discourse-alt-user-pms-button-for-admin/blob/main/LICENSE",
   "theme_version": "1.0.0",
   "assets": {},
   "color_schemes": {},
