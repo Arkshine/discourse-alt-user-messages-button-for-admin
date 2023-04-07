@@ -3,4 +3,4 @@ en:
     user:
       show_messages: Show Messages
   theme_metadata:
-    description: "A Discourse theme component in helping the admin to reduce accidental access to a user's messages from its profile."
+    description: "A theme component that helps admins from accidentally accessing users’ direct messages."
