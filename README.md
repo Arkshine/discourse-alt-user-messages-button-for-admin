@@ -1,6 +1,6 @@
 # Alternative user PMs button for Admin
 
-A small Discourse theme component for Admins that moves the  <kbd>✉️ Messages</kbd> button from public users' profiles to the user admin page as a <kbd>✉️ Show Messages</kbd> button, keeping the intent in a proper admin context.
+A small [Discourse theme component](https://meta.discourse.org/t/alternative-user-pms-button-for-admin/260952) for Admins that moves the  <kbd>✉️ Messages</kbd> button from public users' profiles to the user admin page as a <kbd>✉️ Show Messages</kbd> button, keeping the intent in a proper admin context.
 
 ![NVIDIA_Share_Jt1DT8Z2nv](https://user-images.githubusercontent.com/360640/227838306-d0bb85a5-159a-4ded-af6e-690242c2dc45.gif)
 
